@@ -326,6 +326,7 @@ body{
     width: 100%;
     max-width: 800px; /* Ensures the container doesn't stretch too wide */
     margin: 20px auto; /* Centers the container with margins on top and bottom */
+
   }
   
   .Technical-ba .Bar {
@@ -798,6 +799,9 @@ form textarea {
   padding: 10px;
   border-radius: 0.5rem;
 }
+.center{
+    margin-left: 41%;
+  }
 
 @keyframes slideRight {
   0% {
